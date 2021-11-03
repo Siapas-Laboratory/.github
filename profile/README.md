@@ -6,5 +6,5 @@ Our research focuses on the study of information processing across networks of n
 ## Principal Investigator
 [Thanos Siapas](https://www.bbe.caltech.edu/people/thanos-siapas) \
 Professor of Computation and Neural Systems \
-Executive Officer for Computation and Neural Systems \
+Biology and Biological Engineering  \
 California Institute of Technology, Pasadena, CA
